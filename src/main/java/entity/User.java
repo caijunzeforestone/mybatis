@@ -40,5 +40,7 @@ public class User implements Serializable {
 
     private String two;
 
+    private String three;
+
 }
 
