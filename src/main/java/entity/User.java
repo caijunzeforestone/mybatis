@@ -38,5 +38,7 @@ public class User implements Serializable {
 
     private String one;
 
+    private String two;
+
 }
 
