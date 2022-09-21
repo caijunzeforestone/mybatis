@@ -44,5 +44,7 @@ public class User implements Serializable {
 
     private String fore;
 
+    private String five;
+
 }
 
